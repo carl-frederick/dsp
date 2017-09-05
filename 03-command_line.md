@@ -48,7 +48,7 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+I like -F for identifying files, -L for following links, -R for recursive subdirs and -r for sorting so the newest file is at the bottom. Sometimes -1 is useful if the list needs to be piped for more processing.
 
 ---
 
@@ -56,7 +56,11 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+xargs allows you to run a command on multiple inputs, via standard input.  Here's a dumb example of doing a ls on just two files - colors and chsize:
+
+`> echo colors chsize | xargs -n 1 ls -l`  
+`-rwxr-xr-x  1 carlfrederick  staff  305 Mar 10  2014 colors`  
+`-rwxr-xr-x  1 carlfrederick  staff  96 Mar  8  2014 chsize`  
 
  
 

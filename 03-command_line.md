@@ -26,7 +26,7 @@ I've been using linux a long time. I got this.
 ### Q2.  List Files in Unix   
 
 What do the following commands do:  
-`ls`  
+`ls` 
 `ls -a`  
 `ls -l`  
 `ls -lh`  
@@ -35,13 +35,13 @@ What do the following commands do:
 `ls -Glp`  
 
 
-`ls`  - list directory contents by name
-`ls -a`  - list hidden files as well
-`ls -l`  - long list showing attributes of entries
-`ls -lh`  - convert sizes to more compact form by unit
-`ls -lah`  - ditto for hidden files
-`ls -t`  - names sorted by date, newest first
-`ls -Glp`  - color-coded by file type and with a slash after subdirectories
+`ls  - list directory contents by name`  
+`ls -a  - list hidden files as well`  
+`ls -l  - long list showing attributes of entries`  
+`ls -lh  - convert sizes to more compact form by unit`  
+`ls -lah  - ditto for hidden files`  
+`ls -t  - names sorted by date, newest first`  
+`ls -Glp  - color-coded by file type and with a slash after subdirectories`  
 ---
 
 ### Q3.  More List Files in Unix  

@@ -81,7 +81,7 @@ Upload these 3 files to the [`editors`](editors/) folder.
 
 What terminal editor will be your preferred choice of use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+vi, vim - I've been using vim and gvim for a long time
 
 --
 
@@ -89,6 +89,6 @@ What terminal editor will be your preferred choice of use? How did you make your
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+vim, gvim - it has a nice set of menus and maps to the terminal editor well. I don't do anything particularly fancy but splitting windows is nice for complex projects.  Being able to recognize python and see color-coded text by function and matching of braces is nice.  I used to use the @ feature of vi to store and execute complicated series of instructions but haven't used it in years.  
 
  

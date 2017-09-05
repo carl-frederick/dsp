@@ -19,7 +19,7 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+I've been using linux a long time. I got this.
 
 ---
 
@@ -34,8 +34,14 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
 
+`ls`  - list directory contents by name
+`ls -a`  - list hidden files as well
+`ls -l`  - long list showing attributes of entries
+`ls -lh`  - convert sizes to more compact form by unit
+`ls -lah`  - ditto for hidden files
+`ls -t`  - names sorted by date, newest first
+`ls -Glp`  - color-coded by file type and with a slash after subdirectories
 ---
 
 ### Q3.  More List Files in Unix  
